@@ -45,6 +45,11 @@ public class LoginPageTest {
 		Screenshot_Date.screenshot(driver, "LoginPageTest" );
 		
 	}
+	@Test
+	public void trial()
+	{
+		
+	}
 
 }
 
